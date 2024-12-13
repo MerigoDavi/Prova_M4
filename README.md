@@ -36,3 +36,9 @@
   
 **Desconexão e Reconexão WiFi**
 - O sistema verifica se houve alguma desconexão da rede WiFi e tenta se reconectar.
+
+<br><br><br>
+
+_Obs: não consegui tirar os prints já que estava acontecendo o erro:_ <br><br>
+```Build server failure: Error: Project compilation takes too long, perhaps our build servers are too busy right now. You can try to compile the project on your computer and use Wokwi for VS Code to simulate it, or upgrade to a paid plan for access to high-performance builds: https://wokwi.com/pricing``` <br><br>
+_no wokwi._
